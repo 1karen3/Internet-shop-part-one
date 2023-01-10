@@ -1,0 +1,38 @@
+.category-list {
+    display: flex;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .category-list li {
+    padding: 0.5rem 1rem;
+    background-color: #ccc;
+    margin-right: 0.5rem;
+    cursor: pointer;
+  }
+  
+  .product-list {
+    display: flex;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .product-list li {
+    padding: 0.5rem 1rem;
+    background-color: #ccc;
+    margin-right: 0.5rem;
+    cursor: pointer;
+  }
+  
+  .product-info {
+    padding: 0.5rem;
+    background-color: #eee;
+  }
+  
+  button {
+    padding: 0.5rem 1rem;
+    background-color: #ccc;
+    cursor: pointer;
+  }
